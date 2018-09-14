@@ -1,0 +1,14 @@
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.deps.json
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.runtimeconfig.json
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cache
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cs
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfo.cs
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorTargetAssemblyInfo.cache
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.1\TicTacToe.pdb
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\rkrishnan\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.pdb
